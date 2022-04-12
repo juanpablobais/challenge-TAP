@@ -1,0 +1,20 @@
+[
+    {
+        "id": "M67REZ8NPWJ7W7G94KVGOP",
+            "created": "2022-03-22T17:18:26.259101-03:00",
+            "code": "1",
+            "description": "CREATED"
+    },
+    {
+        "id": "M67REZ8NPWJ7W7G94KVGOP",
+            "created": "2022-03-22T17:18:26.259101-03:00",
+            "code": "2",
+            "description": "WON"
+    },
+    {
+        "id": "M67REZ8NPWJ7W7G94KVGOP",
+            "created": "2022-03-22T17:18:26.259101-03:00",
+            "code": "3",
+            "description": "LOST"
+            }
+]
